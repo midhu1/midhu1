@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://github.com/midhu1<br>💬 Ask me about flutter and ML every thing about computer<br>📫 How to reach me midhujr@gmail.com<br>⚡ Fun fact : 🐛 I don’t fix bugs — I tame them.
+👨‍💻 All of my projects are available at https://github.com/midhu1<br>💬 "Ask me anything about Flutter, Machine Learning, and everything related to computers."<br>📫 How to reach me midhujr@gmail.com<br>⚡ Fun fact : 🐛 I don’t fix bugs — I tame them.
 
 
 # 💻 Tech Stack:
